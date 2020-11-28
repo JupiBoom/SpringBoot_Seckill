@@ -1,7 +1,9 @@
 **商品秒杀项目**
 
 技术栈
+
 前端：BootStrap, jQuery
+
 后端：Spring Boot, Thymeleaf, MyBaits, Redis, MySQL, Maven
 
 
