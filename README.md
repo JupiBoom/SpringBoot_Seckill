@@ -2,7 +2,7 @@
 
 技术栈
 
-前端：BootStrap, jQuery
+前端：Bootstrap, jQuery
 
 后端：Spring Boot, Thymeleaf, MyBaits, Redis, MySQL, Maven
 
