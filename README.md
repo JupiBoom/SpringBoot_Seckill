@@ -4,7 +4,7 @@
 
 前端：Bootstrap, jQuery
 
-后端：Spring Boot, Thymeleaf, MyBaits, Redis, MySQL, Maven
+后端：Spring Boot, Thymeleaf, MyBatis, Redis, MySQL, Maven
 
 
 
